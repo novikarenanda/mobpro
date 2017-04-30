@@ -1,0 +1,41 @@
+{
+    "Tamu": {
+        "dataTamu": [
+            {
+                "id_tamu": "1",
+                "nama_tamu": "novika",
+                "nama_tujuan": "dian",
+                "tujuan": "renanda",
+                "no_kamar": "108"
+            },
+            {
+                "id_tamu": "2",
+                "nama_tamu": "novika",
+                "nama_tujuan": "dian",
+                "tujuan": "ambil buku",
+                "no_kamar": "109"
+            },
+            {
+                "id_tamu": "3",
+                "nama_tamu": "dian",
+                "nama_tujuan": "renanda",
+                "tujuan": "pinjam buku",
+                "no_kamar": "201"
+            },
+            {
+                "id_tamu": "4",
+                "nama_tamu": "dian",
+                "nama_tujuan": "renanda",
+                "tujuan": "main",
+                "no_kamar": "111"
+            },
+            {
+                "id_tamu": "5",
+                "nama_tamu": "",
+                "nama_tujuan": "",
+                "tujuan": "",
+                "no_kamar": "0"
+            }
+        ]
+    }
+}
