@@ -35,6 +35,27 @@
                 "nama_tujuan": "",
                 "tujuan": "",
                 "no_kamar": "0"
+            },
+            {
+                "id_tamu": "6",
+                "nama_tamu": "novika dian renanda",
+                "nama_tujuan": "renanda dian novika",
+                "tujuan": "dian novika renanda",
+                "no_kamar": "99"
+            },
+            {
+                "id_tamu": "7",
+                "nama_tamu": "",
+                "nama_tujuan": "",
+                "tujuan": "",
+                "no_kamar": "0"
+            },
+            {
+                "id_tamu": "8",
+                "nama_tamu": "novika",
+                "nama_tujuan": "novika",
+                "tujuan": "novika",
+                "no_kamar": "1"
             }
         ]
     }
